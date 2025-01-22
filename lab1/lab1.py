@@ -44,3 +44,19 @@ w = float("4.2") # w will be 4.2
 x = str("s1") # x will be 's1'
 y = str(2)    # y will be '2'
 z = str(3.0)  # z will be '3.0'
+
+#string
+print("Arman")
+
+print("My name is Arman")
+
+
+b="My name is Arman"
+a= " , i am from Shymkent"
+print(b[3:6])
+
+print(b.upper())
+print(b.lower())
+print(b.replace("M","a"))
+
+print(a+b)
